@@ -1,5 +1,5 @@
-streamlit
-simpy
-pandas
-matplotlib
-seaborn
+streamlit>=1.30
+simpy>=4.0
+plotly>=5.18
+pandas>=1.5
+numpy>=1.23
